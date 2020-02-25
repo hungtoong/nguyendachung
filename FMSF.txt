@@ -1,0 +1,392 @@
+[Adblock Plus 2.0]
+! Homepage: https://nmtrung.com/fmsf-2/
+! Title: FMSF 2
+! Expires: 1 days
+! Version: 2.5
+! Last modified: 16/2/2020
+! Đừng fork rồi share lung tung nha mấy thím
+! ========================== General Element Hiding ===========================
+###ad_float_right
+###bar_float
+###bn_bottom_fixed_left
+###bn_bottom_fixed_right
+###left_float
+###left_float_ads_content
+###leftAdsBanner
+###qcBallonright
+###right_float
+###right_float_ads_content
+###rightAdsBanner
+##.above-player
+##.ad
+##.adsbygoogle
+##.float-ads-left
+##.float-ads-right
+##.float-ck
+##.float-ck-righttop
+##.quangcao
+##.ytp-ad-progress-list
+##[class^="ad_"]:not(body)
+##[class^="ads_area_"]
+##[class^="advertise"]
+##[class^="balloon"]
+##[class^="float-ck"]
+##[id*="forum_ads"]
+##[id^="ads_area_"]
+##[id^="balloon"]
+##[id^="baloon"]
+##[id^="banner_Float"]
+##[id^="div-gpt-ad"]
+##[id^="divAd"]
+! ========================= Element Hiding Exception ==========================
+@@||classical-pippo9.blogspot.com^$generichide
+@@||gamek.vn^$generichide
+@@||hulu.com^$generichide
+@@||hvdic.thivien.net^$generichide
+@@||nationalgeographic.com^$generichide
+@@||x-rates.com^$generichide
+@@||zippyshare.com^$elemhide
+esl-lab.com#@#.addthis_toolbox
+inbox.google.com#@#.ad
+twitch.tv#@#[class^="balloon"]
+! ========================== Element Hiding Per Site ==========================
+101vn.com##.header
+24h.com.vn###ReplayAd
+24h.com.vn##[class*="banner"]
+24h.com.vn##[id^="crt-"]
+2banh.vn##.footer_expand_wrp
+4shared.com##[id^="epom"]
+5giay.vn##[id*="bg_ban_"]
+7msport.com###divR1
+8bongda.com##[id*="bd8adsheadline"]
+answers.yahoo.com##[id$="textads"]
+baodatviet.vn###ballon
+baodatviet.vn###left_col center
+bdslamdong.vn##.widget-ad-300
+bilutv.org###fanback
+blackboxrepack.com##.down
+blogtruyen.vn###mbtfloat
+blogtruyen.vn###qcInnerContentList
+blogtruyen.vn##.BT-Ads > center > a
+blogtruyen.vn##.manga-detail > center > a
+blogtruyen.vn##.qc-css
+blogtruyen.vn##.qc-inner
+bongda.com.vn##[id^="text-html-widget"]
+bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv##.show-ads-banner
+bongdaplus.vn##.adrgt
+bongdaplus.vn##.banner
+bongdaso.com##.art_header_text
+bongdaso.com##[class*="_banner"]
+bongdatructuyen.us###left_sticky_ads
+bongdatructuyen.us##[id^="banner"]
+cadviet.com###float_panel
+chiasenhac.vn##body>a:first-child>div
+choimobile.vn##.quangcao_post
+chovinh.com###messageList > .message:first-child > .messageInfo + div
+chovinh.com##.samBannerUnit
+chovinh.com##.samCodeUnit
+clbgamesvn.com###contentMain center
+cvt.vn##.headbanner
+dangcaphd.com##.block-banner
+danviet.vn##.banner-LR
+deviantart.com##.partial-ad
+diadiem.com###divPopAdsPOI
+diadiem.com##.div_box_adv
+eva.vn##[id^="ADS_"]
+expertcircuits.blogspot.com###fanback
+fbtag.net##.Flagrow-Ads-fake-poststream-item
+foody.vn##.foody-banner
+forum.ragezone.com##[class*="RZ_BOX"]
+forum.ragezone.com##[id*="navbar_notice"]
+forums.voz.vn##.listsponsor>.tooltip>.tooltiptext
+forums.voz.vn##.middleads
+forums.voz.vn##TD[width="160"]
+fshare.vn##.ban-ev-bot-foot
+gamehub.vn##.portal_ads_scroll
+gametv.vn##.box-ad
+ghacks.net##.block
+google.com,google.com.vn##.ads-ad
+hanoicomputer.vn###highstreet
+hdvietnam.com###youtube.secondaryContent
+hdvip.tv##.rightleftads
+keonhacai.net##.AdsDesktop-header
+ketcau.com##TD[width="140"][valign="top"]
+ketqua.net##.float-qc-left
+khampha.vn##[id^="ADS_"]
+kienthuc.net.vn##.simplebanner
+kienthuc.vn##.ja-colswrap.clearfix.ja-r2
+kissmanga.com###mgiframe2 + DIV
+kzone.tv##.ad-sticky-content
+kzone.tv##.ads_player
+kzone.tv##.jwplayer>.afs_ads~div[style*="height:30px"]
+lgviet.com##.widget.WidgetFramework_WidgetRenderer_Html
+macintosh.vn###dg-container
+mail.google.com##.Bu.y3
+mediafire.com##.dlPromo1Content.dlPromoContent
+mediafire.com##.download_banner_container
+mmo4me.com##.sidebar #widget-11
+mmo4me.com##.sidebar #widget-12
+mmo4me.com##.underPost
+movies.hdviet.com##[class^="box-adv"]
+movies.hdviet.com##[id^="popup"]
+mybongda.com##.top_ads
+nationalgeographic.com##.ad-holder
+news.zing.vn###advBalloon
+news.zing.vn###btnHighlight
+news.zing.vn###site-header
+news.zing.vn##[id*="adv"]
+nhac.vui.vn##.padTop5.padBot5
+nhaccuatui.com##.nqc-zone
+nld.com.vn##.bordertopmenuv4
+notebookitalia.it##.block1a.unit
+onhax.me##.lelabp
+outlook.live.com##.root-38>div:last-child>div>div>div:last-child
+pastebin.com##[class^="banner_"]
+pcworld.com.vn##.pc-adv-local-2
+pes.vn##.body_wrapper > CENTER
+petrotimes.vn##[id^="rotating_elements_"]
+phim.tiengnga.net##.sectionMain.funbox
+phimgi.net###top-player
+phimgi.net##.pc-catfix
+phimmedia.tv##.adv-300-right
+phimmedia.tv##BODY > .nopadding[style="text-align:center"]
+phimnhanh.com##.qc-inner
+platinumcineplex.vn##[id^="fancybox"]
+play.tclup.com##.body > .modal
+quora.com##.cta_case_rules
+ragezone.com##.rzone_ads
+ragezone.com##.social-counter
+raovatdalat.vn##.share-ad-zone.top-banner
+rapidgator.net##[id*="_banner"]
+razorphim.com##.module_home_ads
+rutor.info##.b_tz_on_top
+subscene.com##.banner
+taisachhay.com###footer ~ div
+talk.secafe.vn###headerProxy
+talk.secafe.vn##.hs-header-ad
+talk.secafe.vn##.hs-hide-992
+tangthuvien.vn###sidebar
+tapchicntt.com###text-html-widget-14
+techrum.vn##.sharePage
+techrum.vn##.vip_ad_div
+thamhue.com###ad_global_below_navbar
+thamhue.com###sidebar
+thiendia.com##.my_responsive_ads
+thiendia.com##.samThreadPostMessageInside
+thongtincongnghe.com##.scroller-sidebar
+tinhte.vn##.adWidget
+tivi24h.com###bloggernotificationWrap
+tivi24h.com###fbbaiviet
+tivi24h.com###HTML9
+topbongda.com##.tkb
+topbongda.com##[class*="fadeIn"]
+torviet.com###leftBanner1Ky
+torviet.com###rightBanner1Ky
+truyentranh.net###inread-ads-wrapper
+tuoitre.vn##[class^="block-ad"]
+tuthienbao.com##.fb-comments + TABLE[width="900px"]
+tuthienbao.com##TD[align="right"]
+userstyles.org###social
+viettorrent.vn##.container-fluid CENTER
+vkool.tv###ad_right_watch
+vkool.tv###boxes
+vnexpress.net##[class^="banner_"]
+vnreview.vn###adventist_content
+voz.party##.Flagrow-Ads-fake-poststream-item
+xemgame.com##.abs-bg
+xemphim73.com##.movie-info-box + A
+xemtivihot.com##.full_banner22
+youtube.com###feed-pyv-container
+youtube.com###video-masthead
+youtube.com###watch7-sidebar-ads
+youtube.com##.pyv-afc-ads-container
+youtube.com##.ytp-ce-element.ytp-ce-element-show
+zippyshare.com###qrCode ~ a[href$="1131386.html"]
+zippyshare.com##.center_ad
+! ============================== General adverts ==============================
+-ads/
+-banner/$image
+-quang-cao/
+.com/qc/*
+.net/qc/*
+.php?referer*
+/1131386.$domain=zippyshare.com
+/1131386/|$domain=zippyshare.com
+/950081/|$domain=1fichier.com
+/?file=ads&
+/ad.php?
+/ad_manage/*
+/adpost_
+/ads-
+/ads.$image,xmlhttprequest
+/ads.php
+/ads/*
+/ads_
+/adscript/*
+/adsense/*
+/adserver/*
+/adsfloat/*
+/adv/*
+/advertise/*
+/advertisement/*
+/adx.php?*
+/analytics_frame
+/api/click_hit*
+/api/impression_hit*
+/atrk.js
+/avim.js
+/Bacdau-banner-
+/banner/*$~image,~xmlhttprequest
+/banner/*.gif
+/banner_$third-party
+/bannerqc/*
+/banners/*$~image,~xmlhttprequest
+/banners?
+/buaxua_floating.js
+/cdn/qc/*
+/click.$popup,domain=~mail.google.com
+/Collateral.aspx?*
+/data/Siropu/images/*
+/facebook-popup-box/*
+/floatads.js?*
+/gamead/*
+/gen_204?*
+/generate_204
+/GTrackPlugin.swf
+/itro-popup/*
+/jquery.smart*banner.
+/js/pop-
+/js/pov.js
+/jspopup.js
+/jwplayer/*/vast.js
+/jwplayer7/vast.js
+/letsop-
+/mudim-
+/mudim.
+/pagead/*
+/piwik.js
+/plugins/ultimate-popunder/*
+/pop-ad.
+/pop.js
+/pop1web-
+/popads.
+/popup1.js
+/popup2.js
+/popup_$script,image,stylesheet
+/promotions/*
+/ptracking/*
+/ptracking?*
+/qc.gif|
+/quang-cao/*
+/quangcao.
+/quangcao/*
+/rellect/AdblockDetector/*
+/rhpop_
+/script/suurl.php?
+/smartbanner/*
+/thvpopup.js
+/traffic.php
+/viettyping.js
+_ads.
+_ads/*
+_clicktracker.js
+assets/pub/shareaholic*
+searchTrack.php?
+yts/swfbin/player-vfl*/ad*.swf
+! ================================= Whitelists ================================
+@@/recaptcha/*$script,domain=ouo.io|ouo.press
+@@/tb/tsrp/*$stylesheet,domain=s.taobao.com
+@@/user_ads/*
+@@/wp-content/plugins/bwp-minify/min/*
+@@||125.212.202.62/Statics/jwplayer/jwplayer.flash.swf
+@@||195.82.146.52/logo/*
+@@||4shared.com/css/popup_$stylesheet
+@@||ad.doubleclick.net^$domain=windowscentral.com|thewindowsclub.com
+@@||adserver.yahoo.com^$xmlhttprequest,domain=yahoo.com
+@@||adsnative.com/static/js/render.v2.js$domain=streamable.com
+@@||alicdn.com/retcode/log/*
+@@||api.adtimaserver.vn/crossdomain.xml
+@@||bdpcdn.net/ads/live-score/*
+@@||bebi.com/bebi_v3.js$domain=anime47.com
+@@||biphim.net/ads.php
+@@||blueserving.com/crossdomain.xml$domain=hdviet.com
+@@||cdn.turner.com/xslo/cvp/ads/freewheel/bundles/2/AdManager.swf?*
+@@||cdnviet.com/static/layout/images/logo.png$third-party
+@@||click.linksynergy.com/deeplink?$popup
+@@||cuongphim.com/*/adblock-detector/*
+@@||facebook.com/ads/*$xmlhttprequest
+@@||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads/?*
+@@||facebook.com/dialog/oauth?*
+@@||gamehub.vn/*/jquery.smartbanner.js
+@@||getresponse.com^$popup,third-party
+@@||google-analytics.com^$script,domain=tiki.vn
+@@||googlesyndication.com/pagead/*
+@@||googletagmanager.com/gtm.js$domain=tiki.vn|www.adayroi.com
+@@||googletagservices.com/tag/js/gpt.js$domain=hackintoshzone.com|techrepublic.com
+@@||hackintoshzone.com/ipscdn/ads/*
+@@||hdo.tv/*/video?*
+@@||heaveniphone.com/images/quangcao/heaveniphone.jpg
+@@||hphim.tv/styles/*.gif
+@@||hub.blueserving.com/?skip=
+@@||nv-ad.24hstatic.com/*.jpg
+@@||phimaz.net/ads.php
+@@||rutrk.org/logo/*
+@@||securepubads.g.doubleclick.net^$script,domain=hackintoshzone.com
+@@||statcounter.com/counter/counter.js$domain=xuanvinh.vn
+@@||thamhue.com/images/ads/lgthamhue1.gif
+@@||tinmoi.vn/ads/anninhtv/*$subdocument
+@@||tvhay.org/playergk/fingerprint2.min.js
+@@||vib.com.vn/banners/*
+@@||videofly.vn/v2/vfplayer/js/ads/*
+@@||videomega.tv/vjs/plugin/css/ads.css
+@@||vietcombank.com.vn/upload/popup/*
+@@||vnecdn.net/*/ads.js
+@@||vtvapi.channelvn.net^
+@@||weather.channelvn.net^
+@@||www.ghacks.net/wp-content/plugins/bwp-minify/*
+@@||xemvtv.net/jwplayer7/vast.js
+@@||xphim.vn/jwplayer7/vast.js
+@@||yimg.com/zz/combo?*
+@@||youtube.com/api/stats/atr?*
+@@||youtube.com/api/stats/playback?*
+! ========================== Scripts ===========================
+90m.tv,90phut.tv##+js(abort-current-inline-script.js, $, overlay)
+anime47.com##script:inject(fuckadblock.js-3.2.0)
+aphim.org##script:inject(setTimeout-defuser.js, alert_warning)
+aphim.tv##+js(window.open-defuser.js)
+autoitvn.com##+js(abort-current-inline-script.js, addEventListener, AdBlock)
+banhtv.net##script:inject(abort-current-inline-script.js, mobileCheck)
+banhtv.net##script:inject(abort-on-property-write.js, popups)
+bilutv.org##+js(abort-current-inline-script.js, popunder)
+binhluan.tv##+js(setTimeout-defuser, modal-media-image)
+blogtruyen.vn##script:inject(window.open-defuser.js)
+bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv,thuckhuya.net##+js(abort-on-property-write.js, popupBanners)
+bongngo.tv##+js(abort-on-property-write.js, _pop)
+bumtv.net##script:inject(abort-on-property-write.js, popns)
+cgv.vn##script:inject(abort-current-inline-script.js, win_width, colorbox)
+chiasenhac.vn##+js(abort-current-inline-script.js, screenW, userreport)
+comicvn.net##script:inject(window.open-defuser.js, String.fromCharCode, windowpop)
+dalatmongm.site##+js(abort-current-inline-script.js, adBlockDetected)
+fimfast.com##+js(abort-on-property-write.js, bannerPreload)
+forums.voz.vn##.neo_column.main:style(max-width: none !important)
+forums.voz.vn##script:inject(abort-on-property-read.js, adsbygoogle)
+hdo.tv##script:inject(window.open-defuser.js)
+hdvip.tv##+js(abort-current-inline-script.js, openInNewTab)
+kzone.tv##script:inject(abort-current-inline-script.js, Date, n3zz)
+megaurl.in##+js(window.open-defuser.js)
+phim14.net##script:inject(nowebrtc.js)
+phimgi.net,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
+phimmedia.tv##script:inject(abort-current-inline-script.js, PM_popup)
+phimnhanh.com##script:inject(abort-on-property-read.js, popups)
+phimnhanh.com##script:inject(set-constant.js, player.on, noopFunc)
+phimnhanh.net##script:inject(abort-on-property-read.js, listPage)
+rarbg.to##script:inject(abort-on-property-read.js, _wm3)
+razorphim.com##+js(nano-setTimeout-booster.js, scds, 35000)
+shink.in##script:inject(abort-on-property-read.js, RunAds)
+shink.in##script:inject(abort-on-property-write.js, _pop)
+shink.in##script:inject(abort-on-property-write.js, Fingerprint2)
+truyentranh.net##script:inject(abort-on-property-read.js, popups)
+tvhay.org##+js(abort-current-inline-script.js, tvhayorg)
+violet.vn##script:inject(setTimeout-defuser.js, loadPopup)
+vkool.tv##+js(fuckadblock.js-3.2.0)
+yts.am##script:inject(abort-current-inline-script.js, T822)
